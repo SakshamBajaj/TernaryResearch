@@ -1,26 +1,26 @@
 # TernaryResearch
 A Research project on the viability of Ternary Computing as an alternative to Binary Computing.
-
-Table of Contents:
-Introduction 
-Radix Economy 
-Ternary Logic Implementations 
-  Adders 
-    Half Adder
-    Full adder
-Benchmarking
-  Hypothesis
-  Controls
-  Rationale behind choice of Benchmarks
-  Processed Data and Analysis
-    Mandelbrot Set
-    Indigenous Math based Test
-    Floating Point Operations Per Second
-Hardware Considerations
-Conclusion
-Works Cited
-Appendix 27
-  I. Program for Independently created Math Test 27
-  II. Sample Data Collection Process 28
-  III. Compiled GFLOPS Data Table 30
-  IV. Data accessed for lithography process development at Intel 31
+<br />
+Table of Contents:<br />
+Introduction <br />
+Radix Economy <br />
+Ternary Logic Implementations <br />
+  Adders <br />
+    Half Adder<br />
+    Full adder<br />
+Benchmarking<br />
+  Hypothesis<br />
+  Controls<br />
+  Rationale behind choice of Benchmarks<br />
+  Processed Data and Analysis<br />
+    Mandelbrot Set<br />
+    Indigenous Math based Test<br />
+    Floating Point Operations Per Second<br />
+Hardware Considerations<br />
+Conclusion<br />
+Works Cited<br />
+Appendix <br />
+  I. Program for Independently created Math Test <br />
+  II. Sample Data Collection Process <br />
+  III. Compiled GFLOPS Data Table <br />
+  IV. Data accessed for lithography process development at Intel <br />
